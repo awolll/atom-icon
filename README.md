@@ -5,6 +5,8 @@
 
 ![Shiny, new Atom icon](atom-icon.png)
 
+And now another version:
+![Shiny, new Atom icon](atom-icon_2.png)
+
 
 Sketch files included. Also the project file of Icon Slate, a Mac program I used to create a ICNS file from a PNG.
-
