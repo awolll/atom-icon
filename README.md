@@ -3,19 +3,25 @@
 > Since I am going to be needing a decent code editor and this one seemed nice but lacked an icon I wanted to see every day...
 
 My personal favorite:
+
 Rainbow Hero, redux
-![Shiny, new Atom icon](atom_rainbow-hero.png)
+
+<img src="atom_rainbow-hero.png" width="300" />
 
 
-The first:
-![Shiny, new Atom icon](atom-icon.png)
+The first
+
+<img src="atom-icon.png" width="300" />
+
 
 Rainbow Hero, black typo
-![Shiny, new Atom icon](atom-icon_rainbow-hero_black.png)
+
+<img src="atom-icon_rainbow-hero_black.png" width="300" />
+
 
 Rainbow Hero, white typo
-![Shiny, new Atom icon](atom-icon_rainbow-hero_white.png)
 
+<img src="atom-icon_rainbow-hero_white.png" width="300" />
 
 
 *Sketch files included. Also the project file of Icon Slate, a Mac program I used to create ICNS files from PNGs.
