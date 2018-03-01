@@ -2,9 +2,7 @@
 # This is a replacement icon for the Atom editor
 > Since I am going to be needing a decent code editor and this one seemed nice but lacked an icon I wanted to see every day...
 
-My personal favorite:
-
-Rainbow Hero, redux
+My personal favorite: Rainbow Hero, redux
 
 <img src="atom_rainbow-hero.png" width="300" />
 
